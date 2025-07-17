@@ -1,0 +1,35 @@
+JULIUS DUDEN
+IT-Consultant & Developer
+
+CURRENT POSITION
+================
+IT-Consultant @ Cedima (2024 - Present)
+• SAP Integration & Interface Architecture
+• Business Process Automation
+• Label Generator with MySQL Integration
+
+TECHNICAL SKILLS
+================
+Languages:    Python, ABAP, SQL, JavaScript, Bash
+Frameworks:   React, FastAPI, Django
+Tools:        Docker, Git, Linux, WireGuard VPN
+Databases:    MySQL, PostgreSQL, SAP HANA
+
+EDUCATION
+================
+Industrial Engineering (starting 2025)
+TU Braunschweig
+
+PROJECT HIGHLIGHTS
+================
+• Label Generator for Production Support
+• EP4 Offshore Website with SEO Optimization
+• WireGuard VPN Setup for TMD PV Field Service
+• S.A.M. AI Development (Personal Project)
+
+INTERESTS
+================
+• IoT & Embedded Systems
+• Classic Car Restoration
+• Urban Art & Graffiti
+• AI/ML Development

@@ -1,0 +1,13 @@
+# Core dependencies for whois-julius
+# No external dependencies required for basic functionality
+# All features use Python standard library
+
+# Optional dependencies for future enhancements:
+# pyfiglet==0.8.post1  # For ASCII text generation
+# colorama==0.4.6      # For Windows color support
+# blessed==1.20.0      # For advanced terminal UI
+
+# Core dependencies
+colorama>=0.4.4
+pynput>=1.7.6
+windows-curses>=2.3.1; platform_system == "Windows"

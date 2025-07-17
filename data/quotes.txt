@@ -1,0 +1,36 @@
+"Talk is cheap. Show me the code." – Linus Torvalds  
+"AI will not replace you. A person using AI will." – Unknown  
+"The best way to predict the future is to invent it." – Alan Kay  
+"Code is like humor. When you have to explain it, it's bad." – Cory House  
+"First, solve the problem. Then, write the code." – John Johnson  
+"Experience is the name everyone gives to their mistakes." – Oscar Wilde  
+"The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie  
+"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." – Antoine de Saint-Exupery  
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler  
+"Programming isn't about what you know; it's about what you can figure out." – Chris Pine  
+"Controlling complexity is the essence of computer programming." – Brian Kernighan  
+"Simplicity is prerequisite for reliability." – Edsger W. Dijkstra  
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates  
+"Software is a gas; it expands to fill its container." – Nathan Myhrvold  
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson  
+"Computers are good at following instructions, but not at reading your mind." – Donald Knuth  
+"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." – Linus Torvalds  
+"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay  
+"In theory, there is no difference between theory and practice. But, in practice, there is." – Jan L. A. van de Snepscheut  
+"Any sufficiently advanced technology is indistinguishable from magic." – Arthur C. Clarke  
+"A good programmer is someone who always looks both ways before crossing a one-way street." – Doug Linder  
+"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases." – Norman Augustine  
+"Real programmers count from zero." – Anonymous (but widely accepted as a C-culture joke)  
+"It’s not a bug – it’s an undocumented feature." – Anonymous (but attributed in spirit to early Microsoft engineers)  
+"Good code is its own best documentation." – Steve McConnell  
+"People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones." – Donald Knuth  
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." – Linus Torvalds  
+"Fix the cause, not the symptom." – Steve Maguire  
+"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard  
+"The greatest performance improvement of all is when a system goes from not-working to working." – John Ousterhout  
+"Premature optimization is the root of all evil." – Donald Knuth  
+"The function of good software is to make the complex appear to be simple." – Grady Booch  
+"If debugging is the process of removing software bugs, then programming must be the process of putting them in." – Edsger W. Dijkstra  
+"It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code. You should be able to read it." – Steve McConnell  
+"A language that doesn’t affect the way you think about programming is not worth knowing." – Alan Perlis  
+"One man’s crappy software is another man’s full-time job." – Jessica Gaston  

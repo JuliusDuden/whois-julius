@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Label Generator (Cedima)",
+    "year": 2025,
+    "desc": "Automated label generator for production support with MySQL integration.",
+    "tech": ["Python", "MySQL", "Tkinter", "PDF Generation"],
+    "status": "Production"
+  },
+  {
+    "title": "EP4 Offshore Website Development",
+    "year": 2025,
+    "desc": "Modern corporate website with SEO focus for lead generation.",
+    "tech": ["React", "Next.js", "SEO", "Responsive Design"],
+    "status": "Live"
+  },
+  {
+    "title": "WireGuard VPN @ TMD PV",
+    "year": 2025,
+    "desc": "Remote access solution for field service via encrypted tunnels (Linux).",
+    "tech": ["WireGuard", "Linux", "Bash", "Networking"],
+    "status": "Deployed"
+  },
+  {
+    "title": "S.A.M. AI Assistant",
+    "year": 2024,
+    "desc": "Personal AI assistant with Natural Language Processing capabilities.",
+    "tech": ["Python", "OpenAI API", "NLP", "Voice Recognition"],
+    "status": "Development"
+  }
+]
